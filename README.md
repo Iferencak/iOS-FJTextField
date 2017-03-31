@@ -39,6 +39,9 @@ Slika
         
     tx.placeholderFont = UIFont(name: "Lato-Regular", size: 15);
 ```
+## Improvements
+
+Add error messages.
 
 ## Contributing
 
