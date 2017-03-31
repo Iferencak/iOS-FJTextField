@@ -19,11 +19,11 @@ Just add the ```FJTextField.swift``` file to your project.
 
 Drag a ```UITextField``` on your storyboard and give it a ```FJTextField``` class.
 
-Slika
+![sample](Screenshots/scr1.png)
 
 Now you can change all of the properties and see the effect in real time in your interface builder.
 
-Slika
+![sample](Screenshots/scr2.png)
 
 ### Code
 ```swift
